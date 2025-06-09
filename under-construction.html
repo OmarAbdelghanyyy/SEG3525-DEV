@@ -42,12 +42,13 @@
       ? "https://omarabdelghanyyy.github.io/SEG3525-DEV/digital-marketing/"
       : "https://omarabdelghanyyy.github.io/SEG3525-DEV/";
 
-    const button = document.getElementById("return-home-btn").setAttribute("href", homeURL);
+    const button = document.getElementById("return-home-btn");
     if (button) {
-      button.href = returnURL;
+      button.setAttribute("href", returnURL);
     }
   });
 </script>
+
 
 
 
