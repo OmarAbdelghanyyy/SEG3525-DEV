@@ -2,7 +2,7 @@
   "name": "digital-marketing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "./",
+  "homepage": "https://omarabdelghanyyy.github.io/SEG3525-DEV/digital-marketing",
   "dependencies": {
     "@emailjs/browser": "^4.4.1",
     "@testing-library/dom": "^10.4.0",
@@ -19,6 +19,8 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
