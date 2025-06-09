@@ -42,7 +42,7 @@
       ? "https://omarabdelghanyyy.github.io/SEG3525-DEV/digital-marketing/"
       : "https://omarabdelghanyyy.github.io/SEG3525-DEV/";
 
-    const button = document.getElementById("return-home-btn");
+    const button = document.getElementById("return-home-btn").setAttribute("href", homeURL);
     if (button) {
       button.href = returnURL;
     }
