@@ -1,0 +1,38 @@
+.custom-footer {
+  background-color: black;
+  color: #00aaff;
+  padding: 2rem 0;
+  font-family: monospace;
+}
+
+.footer-contact {
+  font-weight: bold;
+  font-size: 1rem;
+  margin-bottom: 0.5rem;
+}
+
+.footer-icons a {
+  color: #00aaff;
+  margin: 0 0.5rem;
+  font-size: 1.5rem;
+  transition: transform 0.2s, color 0.2s;
+}
+
+.footer-icons a:hover {
+  transform: scale(1.2);
+  color: #00aaff;
+}
+
+.footer-copy {
+  font-size: 1rem;
+  font-weight: bold;
+  letter-spacing: 1px;
+  color: #00aaff;
+  margin-top: 1rem;
+  margin-bottom: 0;
+}
+
+.footer-location {
+  font-size: 1rem;
+  color: white;
+}

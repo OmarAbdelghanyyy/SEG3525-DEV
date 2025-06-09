@@ -1,0 +1,14 @@
+body {
+  font-family: 'Segoe UI', 'Roboto', sans-serif;
+  background-color: #fefefe;
+}
+
+h1, h2, h3, h4 {
+  letter-spacing: -0.5px;
+}
+
+a.btn:hover {
+  background-color: white !important;
+  color: black !important;
+  transition: 0.3s ease;
+}

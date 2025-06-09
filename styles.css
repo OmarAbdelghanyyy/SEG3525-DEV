@@ -1,0 +1,102 @@
+/* Navbar */
+.navbar {
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.nav-link {
+  font-weight: 500;
+  color: white;
+}
+
+/* Hide scrollbar */
+html, body {
+  overflow: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar,
+body::-webkit-scrollbar {
+  display: none;
+}
+
+/* About Me Section */
+.bg-grey {
+  background-color: #495057;
+  border-radius: 12px;
+  padding: 3rem;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
+  max-width: 1000px;
+  margin: auto;
+}
+
+.bg-grey h1 {
+  font-size: 2rem;
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
+.about-wrapper {
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+}
+
+/* Responsive layout */
+@media (max-width: 768px) {
+  .about-wrapper {
+    flex-direction: column;
+    text-align: center;
+  }
+
+  .profile-img {
+    margin-bottom: 1rem;
+  }
+}
+
+/* Profile Image */
+.profile-img {
+  width: 300px;
+  height: 300px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 2px solid black;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+}
+
+/* About Me Text */
+.about-me-text {
+  font-size: 1.05rem;
+  line-height: 1.6;
+  color: #f8f9fa;
+}
+
+/* Project Cards */
+.card {
+  width: 18rem;
+}
+
+.project-card {
+  border-radius: 20px;
+  overflow: hidden;
+  box-shadow: 0 4px 16px rgba(128, 0, 255, 0.2);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 6px 24px rgba(128, 0, 255, 0.3);
+}
+
+.card-img-top {
+  height: 200px;
+  object-fit: cover;
+  width: 100%;
+}
+
+/* Headings */
+h1 {
+  font-weight: 600;
+  margin-bottom: 20px;
+}
