@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/SEG3525-DEV/ecommerce-site/static/css/main.1368dfb3.css",
+    "main.js": "/SEG3525-DEV/ecommerce-site/static/js/main.e38e23fa.js",
+    "static/media/plaidbluewhiteshirt.jpg": "/SEG3525-DEV/ecommerce-site/static/media/plaidbluewhiteshirt.b5347c58aa6c720d6be7.jpg",
+    "static/media/whiteblouse.jpeg": "/SEG3525-DEV/ecommerce-site/static/media/whiteblouse.1d63e0909c55b42139c4.jpeg",
+    "static/media/bluedenimjacket.jpg": "/SEG3525-DEV/ecommerce-site/static/media/bluedenimjacket.6328fdbf5246514fdd20.jpg",
+    "static/media/stripedpolowhiteredcotton.jpg": "/SEG3525-DEV/ecommerce-site/static/media/stripedpolowhiteredcotton.48708ea9f36a6f4575c2.jpg",
+    "static/media/placeholder.jpg": "/SEG3525-DEV/ecommerce-site/static/media/placeholder.3765a759a66bca9706fe.jpg",
+    "static/media/brownleatherjacket.jpg": "/SEG3525-DEV/ecommerce-site/static/media/brownleatherjacket.ebd4b084876bb7a3e02b.jpg",
+    "static/media/blacknylonrunningshorts.jpg": "/SEG3525-DEV/ecommerce-site/static/media/blacknylonrunningshorts.149d105e845ea8b97993.jpg",
+    "static/media/redsilkscarf.jpg": "/SEG3525-DEV/ecommerce-site/static/media/redsilkscarf.5e1e59669fec5749f2dd.jpg",
+    "static/media/bluejeans.jpg": "/SEG3525-DEV/ecommerce-site/static/media/bluejeans.12c88a07d43bdf13423a.jpg",
+    "static/media/rippedbluejeansdenimlightblue.jpg": "/SEG3525-DEV/ecommerce-site/static/media/rippedbluejeansdenimlightblue.302202f17bb64adaa917.jpg",
+    "static/media/black-tshirt.jpg": "/SEG3525-DEV/ecommerce-site/static/media/black-tshirt.c87433726d2411511f4a.jpg",
+    "static/media/multifloraldress.jpg": "/SEG3525-DEV/ecommerce-site/static/media/multifloraldress.e5443fa52af57e2ca187.jpg",
+    "static/media/cargoolivercottonpants.jpg": "/SEG3525-DEV/ecommerce-site/static/media/cargoolivercottonpants.0aa598d666afbdb849be.jpg",
+    "index.html": "/SEG3525-DEV/ecommerce-site/index.html",
+    "main.1368dfb3.css.map": "/SEG3525-DEV/ecommerce-site/static/css/main.1368dfb3.css.map",
+    "main.e38e23fa.js.map": "/SEG3525-DEV/ecommerce-site/static/js/main.e38e23fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1368dfb3.css",
+    "static/js/main.e38e23fa.js"
+  ]
+}
