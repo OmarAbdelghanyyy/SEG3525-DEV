@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/SEG3525-DEV/ecommerce-site/static/css/main.1368dfb3.css",
-    "main.js": "/SEG3525-DEV/ecommerce-site/static/js/main.ab99be64.js",
+    "main.css": "/SEG3525-DEV/ecommerce-site/static/css/main.802e0d83.css",
+    "main.js": "/SEG3525-DEV/ecommerce-site/static/js/main.3224907d.js",
     "static/media/plaidbluewhiteshirt.jpg": "/SEG3525-DEV/ecommerce-site/static/media/plaidbluewhiteshirt.b5347c58aa6c720d6be7.jpg",
     "static/media/whiteblouse.jpeg": "/SEG3525-DEV/ecommerce-site/static/media/whiteblouse.1d63e0909c55b42139c4.jpeg",
     "static/media/bluedenimjacket.jpg": "/SEG3525-DEV/ecommerce-site/static/media/bluedenimjacket.6328fdbf5246514fdd20.jpg",
@@ -16,11 +16,11 @@
     "static/media/multifloraldress.jpg": "/SEG3525-DEV/ecommerce-site/static/media/multifloraldress.e5443fa52af57e2ca187.jpg",
     "static/media/cargoolivercottonpants.jpg": "/SEG3525-DEV/ecommerce-site/static/media/cargoolivercottonpants.0aa598d666afbdb849be.jpg",
     "index.html": "/SEG3525-DEV/ecommerce-site/index.html",
-    "main.1368dfb3.css.map": "/SEG3525-DEV/ecommerce-site/static/css/main.1368dfb3.css.map",
-    "main.ab99be64.js.map": "/SEG3525-DEV/ecommerce-site/static/js/main.ab99be64.js.map"
+    "main.802e0d83.css.map": "/SEG3525-DEV/ecommerce-site/static/css/main.802e0d83.css.map",
+    "main.3224907d.js.map": "/SEG3525-DEV/ecommerce-site/static/js/main.3224907d.js.map"
   },
   "entrypoints": [
-    "static/css/main.1368dfb3.css",
-    "static/js/main.ab99be64.js"
+    "static/css/main.802e0d83.css",
+    "static/js/main.3224907d.js"
   ]
 }
